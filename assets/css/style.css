@@ -169,10 +169,21 @@ body{
     font-weight: bold;
 }
 
+#skillsHeader{
+    margin: auto;
+    margin-bottom: 4rem;
+    text-align: center;
+    position: relative;
+}
 .cv-block .info-card.skills .progress{
     height: 3px;
 }
-
+.contact-info{
+    width: 20rem;
+    margin: auto;
+    margin-top: 3rem;
+    text-align: center;
+}
 .cv-block .info-card.contact-info .icon{
     font-size: 1.3em;
     color: #c9c9c9;
